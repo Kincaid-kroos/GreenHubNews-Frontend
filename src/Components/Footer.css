@@ -1,0 +1,48 @@
+.footercontainer{
+    height: 50vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.9);
+    float: left;
+    color: rgba(255, 255, 255, 0.801);
+    bottom: 0;
+    margin-bottom: 0;
+      }
+      
+.footerdivcss{  
+    position:inherit;
+    color: rgb(233, 227, 227);
+    bottom: 0;
+    background-color: #111;
+    width: 100vw;
+    height: 100px;
+    padding-bottom: 0;
+    padding-right: 15px;
+    padding-left: 15px
+
+
+   
+    }
+    .footerlink{
+        text-decoration: none;
+        color: rgb(212, 212, 155);
+    }
+    .no-bullets {
+        list-style-type: none;
+    
+      }
+      
+    .padding-left{
+        padding-left: 5px;
+    }
+    .email-color{
+        color: white;
+    }
+    .socio-icons{
+        display: flex;
+        justify-content: center;
+    
+    }
+    .socio-icons li {
+        margin-right: 10px;
+      }
+      
